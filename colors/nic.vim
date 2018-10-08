@@ -4,7 +4,7 @@
 
 hi clear
 
-let g:colors_name = "niccol"
+let g:colors_name = "nic"
 
 " Normal should come first
 hi Normal     guifg=Black  guibg=White
